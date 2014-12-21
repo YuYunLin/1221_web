@@ -1,11 +1,11 @@
-<html>
-<head><title>ÁÊª«ºô¯¸</title></head>
+ï»¿<html>
+<head><title>è³¼ç‰©ç¶²ç«™</title></head>
 <body>
 <center>
 <form action="login.php" method="post">
-<h2>½Ðµn¤J</h2>
-±b¸¹¡G <input type="text" name="id"><p>
-±K½X¡G <input type="password" name="passwd"><p>
+<h2>è«‹ç™»å…¥</h2>
+å¸³è™Ÿï¼š <input type="text" name="id"><p>
+å¯†ç¢¼ï¼š <input type="password" name="passwd"><p>
 <input type="submit">&nbsp;<input type="reset">
 </form>
 </center>
